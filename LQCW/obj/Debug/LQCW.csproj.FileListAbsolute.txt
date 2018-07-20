@@ -1,0 +1,9 @@
+D:\Document\Demo\LQCW\LQCW\bin\Debug\LQCW.exe.config
+D:\Document\Demo\LQCW\LQCW\obj\Debug\_LQCW.Form1.resources
+D:\Document\Demo\LQCW\LQCW\obj\Debug\LQCW.Properties.Resources.resources
+D:\Document\Demo\LQCW\LQCW\obj\Debug\LQCW.csproj.GenerateResource.Cache
+D:\Document\Demo\LQCW\LQCW\bin\Debug\LQCW.exe
+D:\Document\Demo\LQCW\LQCW\bin\Debug\LQCW.pdb
+D:\Document\Demo\LQCW\LQCW\obj\Debug\LQCW.exe
+D:\Document\Demo\LQCW\LQCW\obj\Debug\LQCW.pdb
+D:\Document\Demo\LQCW\LQCW\obj\Debug\LQCW.csprojResolveAssemblyReference.cache

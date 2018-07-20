@@ -1,0 +1,117 @@
+D:\Document\Demo\LQCW\LQCW\bin\Release\LQCW.exe.config
+D:\Document\Demo\LQCW\LQCW\bin\Release\LQCW.exe
+D:\Document\Demo\LQCW\LQCW\bin\Release\LQCW.pdb
+D:\Document\Demo\LQCW\LQCW\obj\Release\_LQCW.Form1.resources
+D:\Document\Demo\LQCW\LQCW\obj\Release\LQCW.Properties.Resources.resources
+D:\Document\Demo\LQCW\LQCW\obj\Release\LQCW.csproj.GenerateResource.Cache
+D:\Document\Demo\LQCW\LQCW\obj\Release\LQCW.exe
+D:\Document\Demo\LQCW\LQCW\obj\Release\LQCW.pdb
+D:\Document\Demo\LQCW\LQCW\obj\Release\LQCW.csprojResolveAssemblyReference.cache
+D:\Document\Demo\LQCW -2018.05.25\LQCW\bin\Release\LQCW.exe.config
+D:\Document\Demo\LQCW -2018.05.25\LQCW\obj\Release\LQCW.exe
+D:\Document\Demo\LQCW -2018.05.25\LQCW\obj\Release\LQCW.pdb
+D:\Document\Demo\LQCW -2018.05.25\LQCW\bin\Release\LQCW.exe
+D:\Document\Demo\LQCW -2018.05.25\LQCW\bin\Release\LQCW.pdb
+D:\Document\Demo\LQCW -2018.05.25\LQCW\obj\Release\LQCW.csprojResolveAssemblyReference.cache
+D:\Document\Demo\LQCW -2018.05.25\LQCW\obj\Release\_LQCW.Form1.resources
+D:\Document\Demo\LQCW -2018.05.25\LQCW\obj\Release\LQCW.Properties.Resources.resources
+D:\Document\Demo\LQCW -2018.05.25\LQCW\obj\Release\LQCW.csproj.GenerateResource.Cache
+D:\Document\Demo\Wsd -2018.06.06 - v0.1\LQCW\bin\Release\LQCW.exe.config
+D:\Document\Demo\Wsd -2018.06.06 - v0.1\LQCW\obj\Release\LQCW.exe
+D:\Document\Demo\Wsd -2018.06.06 - v0.1\LQCW\obj\Release\LQCW.pdb
+D:\Document\Demo\Wsd -2018.06.06 - v0.1\LQCW\obj\Release\LQCW.csprojResolveAssemblyReference.cache
+D:\Document\Demo\Wsd -2018.06.06 - v0.1\LQCW\obj\Release\_LQCW.Form1.resources
+D:\Document\Demo\Wsd -2018.06.06 - v0.1\LQCW\obj\Release\LQCW.Properties.Resources.resources
+D:\Document\Demo\Wsd -2018.06.06 - v0.1\LQCW\obj\Release\LQCW.csproj.GenerateResource.Cache
+D:\Document\Demo\Wsd -2018.06.06 - v0.1\LQCW\bin\Release\LQCW.exe
+D:\Document\Demo\Wsd -2018.06.06 - v0.1\LQCW\bin\Release\LQCW.pdb
+D:\Document\Demo\Wsd -2018.06.06 - v0.2\LQCW\bin\Release\LQCW.exe.config
+D:\Document\Demo\Wsd -2018.06.06 - v0.2\LQCW\obj\Release\LQCW.exe
+D:\Document\Demo\Wsd -2018.06.06 - v0.2\LQCW\obj\Release\LQCW.pdb
+D:\Document\Demo\Wsd -2018.06.06 - v0.2\LQCW\bin\Release\LQCW.exe
+D:\Document\Demo\Wsd -2018.06.06 - v0.2\LQCW\bin\Release\LQCW.pdb
+D:\Document\Demo\Wsd -2018.06.06 - v0.2\LQCW\obj\Release\LQCW.csprojResolveAssemblyReference.cache
+D:\Document\Demo\Wsd -2018.06.06 - v0.2\LQCW\obj\Release\_LQCW.Form1.resources
+D:\Document\Demo\Wsd -2018.06.06 - v0.2\LQCW\obj\Release\LQCW.Properties.Resources.resources
+D:\Document\Demo\Wsd -2018.06.06 - v0.2\LQCW\obj\Release\LQCW.csproj.GenerateResource.Cache
+D:\Document\Demo\Wsd -2018.06.07 - v0.2\LQCW\bin\Release\LQCW.exe.config
+D:\Document\Demo\Wsd -2018.06.07 - v0.2\LQCW\obj\Release\LQCW.exe
+D:\Document\Demo\Wsd -2018.06.07 - v0.2\LQCW\obj\Release\LQCW.pdb
+D:\Document\Demo\Wsd -2018.06.07 - v0.2\LQCW\bin\Release\LQCW.exe
+D:\Document\Demo\Wsd -2018.06.07 - v0.2\LQCW\bin\Release\LQCW.pdb
+D:\Document\Demo\Wsd -2018.06.07 - v0.2\LQCW\obj\Release\LQCW.csprojResolveAssemblyReference.cache
+D:\Document\Demo\Wsd -2018.06.07 - v0.2\LQCW\obj\Release\_LQCW.Form1.resources
+D:\Document\Demo\Wsd -2018.06.07 - v0.2\LQCW\obj\Release\LQCW.Properties.Resources.resources
+D:\Document\Demo\Wsd -2018.06.07 - v0.2\LQCW\obj\Release\LQCW.csproj.GenerateResource.Cache
+D:\Document\Demo\Wsd -2018.06.08 - v0.3\LQCW\bin\Release\LQCW.exe.config
+D:\Document\Demo\Wsd -2018.06.08 - v0.3\LQCW\obj\Release\LQCW.exe
+D:\Document\Demo\Wsd -2018.06.08 - v0.3\LQCW\obj\Release\LQCW.pdb
+D:\Document\Demo\Wsd -2018.06.08 - v0.3\LQCW\bin\Release\LQCW.exe
+D:\Document\Demo\Wsd -2018.06.08 - v0.3\LQCW\bin\Release\LQCW.pdb
+D:\Document\Demo\Wsd -2018.06.08 - v0.3\LQCW\obj\Release\LQCW.csprojResolveAssemblyReference.cache
+D:\Document\Demo\Wsd -2018.06.08 - v0.3\LQCW\obj\Release\_LQCW.Form1.resources
+D:\Document\Demo\Wsd -2018.06.08 - v0.3\LQCW\obj\Release\LQCW.Properties.Resources.resources
+D:\Document\Demo\Wsd -2018.06.08 - v0.3\LQCW\obj\Release\LQCW.csproj.GenerateResource.Cache
+D:\Document\Demo\Wsd -2018.06.12 - v0.4\LQCW\bin\Release\LQCW.exe.config
+D:\Document\Demo\Wsd -2018.06.12 - v0.4\LQCW\obj\Release\LQCW.exe
+D:\Document\Demo\Wsd -2018.06.12 - v0.4\LQCW\obj\Release\LQCW.pdb
+D:\Document\Demo\Wsd -2018.06.12 - v0.4\LQCW\bin\Release\LQCW.exe
+D:\Document\Demo\Wsd -2018.06.12 - v0.4\LQCW\bin\Release\LQCW.pdb
+D:\Document\Demo\Wsd -2018.06.12 - v0.4\LQCW\obj\Release\LQCW.csprojResolveAssemblyReference.cache
+D:\Document\Demo\Wsd -2018.06.12 - v0.4\LQCW\obj\Release\_LQCW.Form1.resources
+D:\Document\Demo\Wsd -2018.06.12 - v0.4\LQCW\obj\Release\LQCW.Properties.Resources.resources
+D:\Document\Demo\Wsd -2018.06.12 - v0.4\LQCW\obj\Release\LQCW.csproj.GenerateResource.Cache
+D:\Document\Demo\Wsd -2018.06.12 - v0.6\LQCW\bin\Release\LQCW.exe.config
+D:\Document\Demo\Wsd -2018.06.12 - v0.6\LQCW\obj\Release\LQCW.exe
+D:\Document\Demo\Wsd -2018.06.12 - v0.6\LQCW\obj\Release\LQCW.pdb
+D:\Document\Demo\Wsd -2018.06.12 - v0.6\LQCW\bin\Release\LQCW.exe
+D:\Document\Demo\Wsd -2018.06.12 - v0.6\LQCW\bin\Release\LQCW.pdb
+D:\Document\Demo\Wsd -2018.06.12 - v0.6\LQCW\obj\Release\LQCW.csprojResolveAssemblyReference.cache
+D:\Document\Demo\Wsd -2018.06.12 - v0.6\LQCW\obj\Release\_LQCW.Form1.resources
+D:\Document\Demo\Wsd -2018.06.12 - v0.6\LQCW\obj\Release\LQCW.Properties.Resources.resources
+D:\Document\Demo\Wsd -2018.06.12 - v0.6\LQCW\obj\Release\LQCW.csproj.GenerateResource.Cache
+D:\Document\Demo\Wsd -2018.06.14 - v0.7- bate\LQCW\bin\Release\LQCW.exe.config
+D:\Document\Demo\Wsd -2018.06.14 - v0.7- bate\LQCW\obj\Release\LQCW.exe
+D:\Document\Demo\Wsd -2018.06.14 - v0.7- bate\LQCW\obj\Release\LQCW.pdb
+D:\Document\Demo\Wsd -2018.06.14 - v0.7- bate\LQCW\bin\Release\LQCW.exe
+D:\Document\Demo\Wsd -2018.06.14 - v0.7- bate\LQCW\bin\Release\LQCW.pdb
+D:\Document\Demo\Wsd -2018.06.14 - v0.7- bate\LQCW\obj\Release\LQCW.csprojResolveAssemblyReference.cache
+D:\Document\Demo\Wsd -2018.06.14 - v0.7- bate\LQCW\obj\Release\_LQCW.Form1.resources
+D:\Document\Demo\Wsd -2018.06.14 - v0.7- bate\LQCW\obj\Release\LQCW.Properties.Resources.resources
+D:\Document\Demo\Wsd -2018.06.14 - v0.7- bate\LQCW\obj\Release\LQCW.csproj.GenerateResource.Cache
+D:\Document\Demo\Wsd -2018.06.14 - v0.8- bate\LQCW\bin\Release\LQCW.exe.config
+D:\Document\Demo\Wsd -2018.06.14 - v0.8- bate\LQCW\obj\Release\LQCW.exe
+D:\Document\Demo\Wsd -2018.06.14 - v0.8- bate\LQCW\obj\Release\LQCW.pdb
+D:\Document\Demo\Wsd -2018.06.14 - v0.8- bate\LQCW\bin\Release\LQCW.exe
+D:\Document\Demo\Wsd -2018.06.14 - v0.8- bate\LQCW\bin\Release\LQCW.pdb
+D:\Document\Demo\Wsd -2018.06.14 - v0.8- bate\LQCW\obj\Release\LQCW.csprojResolveAssemblyReference.cache
+D:\Document\Demo\Wsd -2018.06.14 - v0.8- bate\LQCW\obj\Release\_LQCW.Form1.resources
+D:\Document\Demo\Wsd -2018.06.14 - v0.8- bate\LQCW\obj\Release\LQCW.Properties.Resources.resources
+D:\Document\Demo\Wsd -2018.06.14 - v0.8- bate\LQCW\obj\Release\LQCW.csproj.GenerateResource.Cache
+D:\Document\Demo\Wsd -2018.06.19 - v1.1- bate -\LQCW\bin\Release\LQCW.exe.config
+D:\Document\Demo\Wsd -2018.06.19 - v1.1- bate -\LQCW\obj\Release\LQCW.exe
+D:\Document\Demo\Wsd -2018.06.19 - v1.1- bate -\LQCW\obj\Release\LQCW.pdb
+D:\Document\Demo\Wsd -2018.06.19 - v1.1- bate -\LQCW\obj\Release\LQCW.csprojResolveAssemblyReference.cache
+D:\Document\Demo\Wsd -2018.06.19 - v1.1- bate -\LQCW\obj\Release\_LQCW.Form1.resources
+D:\Document\Demo\Wsd -2018.06.19 - v1.1- bate -\LQCW\obj\Release\LQCW.Properties.Resources.resources
+D:\Document\Demo\Wsd -2018.06.19 - v1.1- bate -\LQCW\obj\Release\LQCW.csproj.GenerateResource.Cache
+D:\Document\Demo\Wsd -2018.06.19 - v1.1- bate -\LQCW\bin\Release\LQCW.exe
+D:\Document\Demo\Wsd -2018.06.19 - v1.1- bate -\LQCW\bin\Release\LQCW.pdb
+D:\Document\Demo\Wsd -2018.06.19 - v1.5- bate -\LQCW\bin\Release\LQCW.exe.config
+D:\Document\Demo\Wsd -2018.06.19 - v1.5- bate -\LQCW\obj\Release\LQCW.exe
+D:\Document\Demo\Wsd -2018.06.19 - v1.5- bate -\LQCW\obj\Release\LQCW.pdb
+D:\Document\Demo\Wsd -2018.06.19 - v1.5- bate -\LQCW\bin\Release\LQCW.exe
+D:\Document\Demo\Wsd -2018.06.19 - v1.5- bate -\LQCW\bin\Release\LQCW.pdb
+D:\Document\Demo\Wsd -2018.06.19 - v1.5- bate -\LQCW\obj\Release\LQCW.csprojResolveAssemblyReference.cache
+D:\Document\Demo\Wsd -2018.06.19 - v1.5- bate -\LQCW\obj\Release\_LQCW.Form1.resources
+D:\Document\Demo\Wsd -2018.06.19 - v1.5- bate -\LQCW\obj\Release\LQCW.Properties.Resources.resources
+D:\Document\Demo\Wsd -2018.06.19 - v1.5- bate -\LQCW\obj\Release\LQCW.csproj.GenerateResource.Cache
+D:\Document\Demo\Wsd -2018.06.30 - v1.6- bate -\LQCW\bin\Release\LQCW.exe.config
+D:\Document\Demo\Wsd -2018.06.30 - v1.6- bate -\LQCW\obj\Release\LQCW.exe
+D:\Document\Demo\Wsd -2018.06.30 - v1.6- bate -\LQCW\obj\Release\LQCW.pdb
+D:\Document\Demo\Wsd -2018.06.30 - v1.6- bate -\LQCW\bin\Release\LQCW.exe
+D:\Document\Demo\Wsd -2018.06.30 - v1.6- bate -\LQCW\bin\Release\LQCW.pdb
+D:\Document\Demo\Wsd -2018.06.30 - v1.6- bate -\LQCW\obj\Release\LQCW.csprojResolveAssemblyReference.cache
+D:\Document\Demo\Wsd -2018.06.30 - v1.6- bate -\LQCW\obj\Release\_LQCW.Form1.resources
+D:\Document\Demo\Wsd -2018.06.30 - v1.6- bate -\LQCW\obj\Release\LQCW.Properties.Resources.resources
+D:\Document\Demo\Wsd -2018.06.30 - v1.6- bate -\LQCW\obj\Release\LQCW.csproj.GenerateResource.Cache
